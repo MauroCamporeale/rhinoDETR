@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+.git/
+.idea/
+outputs/
+outputs10epochsbalanceaugmented/
+outputs50epochs/
+outputs50epochsbalanceaugmented/
+rhino-cells/
+rhino-cells-balanced-augmented/
+venv/
+rhino-cells.zip
+rhino-cells-balanced-augmented.zip
+detr-r50_no-class-head.pth
+outputs.zip
+
